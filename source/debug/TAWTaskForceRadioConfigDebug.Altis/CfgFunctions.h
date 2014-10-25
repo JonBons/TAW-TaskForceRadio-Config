@@ -9,14 +9,8 @@ class CfgFunctions
 			{
 				preInit = 1;
 			};
-			class Init
-			{
-				postInit = 1;
-			};
-			class InitPlayer{};
 			class RequestSWRadio{};
 			class RequestLRRadio{};
-			class SetCarriedRadioPresets{};
 		};
 	};
 };
