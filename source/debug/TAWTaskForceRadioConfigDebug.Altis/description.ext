@@ -1,0 +1,5 @@
+respawn = 2;
+respawnDelay = 2;
+
+#include "CfgFunctions.h"
+#include "\userconfig\task_force_radio_taw\radio_layout.hpp"
